@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HeyBud</string>
+    <string name="title_activity_main">HeyBud</string>
+    <string name="package_name">com.heybud.app</string>
+    <string name="custom_url_scheme">com.heybud.app</string>
+</resources>
